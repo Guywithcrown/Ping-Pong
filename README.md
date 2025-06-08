@@ -16,9 +16,7 @@ This is a classic **two-player Pong game** built using **Python** and the `turtl
 
 - Classic Pong mechanics
 - Two-player local gameplay
-- Basic scoring system
 - Smooth paddle and ball movement
-- Minimal dependencies (just Python and `turtle`)
 
 ## ▶️ Getting Started
 
